@@ -18,7 +18,7 @@ export default function Home() {
         <h1 className={styles.title}>
           <code>
             <strong>
-              Hey! I'm <a href="https://github.com/afnan007a">Afnan k salal </a>
+              Hey! I'm <a href="https://github.com/afnan007a">Afnan</a>
             </strong>
           </code>
         </h1>
