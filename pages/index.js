@@ -58,7 +58,7 @@ export default function Home() {
           <strong>
             <h2>
               Want to know more? just click
-              <a href="https://www.youtube.com/watch?v=QtBDL8EiNZo&t=1s">
+              <a href="https://github.com/afnan007a/afnan007a">
                 here!
               </a>
             </h2>
