@@ -45,8 +45,7 @@ export default function Home() {
               <strong>
                 <h3>Contact me</h3>
                 <p>
-                  If you want to hire me or just want to be friends with me just
-                  message me in discord. my id: Afnan#2316
+                  If you want to hire me or just want to be friends with me just mail me at mail@afnanksalal.xyz
                 </p>
               </strong>
             </code>
