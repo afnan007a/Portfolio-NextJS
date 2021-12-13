@@ -45,7 +45,7 @@ export default function Home() {
               <strong>
                 <h3>Contact me</h3>
                 <p>
-                  If you want to hire me or just want to be friends with me just mail me at mail@afnanksalal.xyz
+                  I am currently busy with my school so im not ready to get socialised.
                 </p>
               </strong>
             </code>
