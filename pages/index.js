@@ -44,7 +44,7 @@ export default function Home() {
               <strong>
                 <h3>Contact me</h3>
                 <p>
-                  I am currently busy with my school so im not ready to focus on digital stuff!.
+                  I'm currently busy with my school so no hiring & stuff for now xd!
                 </p>
               </strong>
             </code>
