@@ -33,8 +33,7 @@ export default function Home() {
               <strong>
                 <h3>My Works</h3>
                 <p>
-                  so basically you can see my latest and all time works here. i
-                  hope you liked it ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎
+                  so basically you can see my latest and all time works here.
                 </p>
               </strong>
             </code>
@@ -45,7 +44,7 @@ export default function Home() {
               <strong>
                 <h3>Contact me</h3>
                 <p>
-                  I am currently busy with my school so im not ready to get socialised lol. ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎
+                  I am currently busy with my school so im not ready to focus on digital stuff!.
                 </p>
               </strong>
             </code>
