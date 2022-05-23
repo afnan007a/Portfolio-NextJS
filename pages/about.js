@@ -36,7 +36,7 @@ export default function Home() {
         </h1>
         <h1>
           <code>
-         <center><strong>My name is Afnan K Salal. <br /><br /> I'm 16 years old and I'm from India. <br /><br /> I'm a Fullstack Developer and a System Administrator. <br /><br /> I mostly use JavaScript, TypeScript, PHP and Python. 
+         <center><strong><p>My name is Afnan K Salal. <br /><br /> I'm 16 years old and I'm from India. <br /><br /> I'm a Fullstack Developer and a System Administrator. <br /><br /> I mostly use JavaScript, TypeScript, PHP and Python.</p> 
 </strong></center>
           </code>
         </h1>
