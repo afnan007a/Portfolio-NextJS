@@ -58,14 +58,14 @@
   align-items: center;
 }
 
-.main a {
+.line a {
   cursor: pointer;
   position: relative;
   text-decoration: none;
   color: white;
 }
 
-.main a:after {
+.line a:after {
   content: "";
   position: absolute;
   background-color: #f43f5e;
@@ -76,7 +76,7 @@
   transition: 0.3s;
 }
 
-.main a:hover:after {
+.line a:hover:after {
   width: 100%;
 }
 
