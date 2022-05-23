@@ -27,17 +27,18 @@ export default function Home() {
   </div>
 </div> 
       <main className={styles.main}>
-      <div className={styles.grid}>
-            <code>
-              <strong>
-                <h3>Contact me</h3>
-                <p>
-                Shoot me a mail at <a>me@afnanksalal.xyz</a> or just message me in discord, my discord id is <a>Afnan#2316</a>
-                </p>
-              </strong>
-            </code>
-
-        </div>
+                <h1 className={styles.title}>
+          <code>
+            <strong>
+               <a>Contact me</a>
+            </strong>
+          </code>
+        </h1>
+        <h1>
+          <code>
+         <strong>Shoot me a mail at <a>me@afnanksalal.xyz</a> or just message me in discord, my discord id is <a>Afnan#2316</a></strong>
+          </code>
+        </h1>
       </main>
       <footer className={styles.footer}>
         <code>
