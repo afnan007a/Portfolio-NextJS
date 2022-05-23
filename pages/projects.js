@@ -44,7 +44,7 @@ export default function Home() {
               <strong>
                 <h3>Zanime</h3>
                 <p>
-                Zanime is a free Anime and Manga watching website that gives online anime/manga content at no cost. You get numerous anime , manga suggestions to keep you stuck to this site. The first-rate element approximately Zanime is the site is always up to date.
+                Zanime is a free Anime and Manga watching website that gives online anime/manga content at no cost. You get numerous anime , manga suggestions to keep you stuck to this site.
                 </p>
               </strong>
             </code>
