@@ -198,8 +198,8 @@
 .button button {
   margin-bottom: 60px;
   font-size: 17px;
-  background-color:  linear-gradient(to right bottom, #370537, #690044, #9c0044, #c90036, #eb2e12);
-  border: 3px solid  linear-gradient(to right bottom, #370537, #690044, #9c0044, #c90036, #eb2e12);
+  background-color: linear-gradient(to right bottom, #370537, #690044, #9c0044, #c90036, #eb2e12);
+  border: 3px solid linear-gradient(to right bottom, #370537, #690044, #9c0044, #c90036, #eb2e12);
   border-radius: 20px;
   color: white;
   padding: 15px 32px;
@@ -211,9 +211,9 @@
 .button button:hover{
   cursor: pointer;
   background-color: #18181B; 
-  border: 3px solid  linear-gradient(to right bottom, #370537, #690044, #9c0044, #c90036, #eb2e12);
+  border: 3px solid linear-gradient(to right bottom, #370537, #690044, #9c0044, #c90036, #eb2e12);
   border-radius: 20px;
-  color: #f43f5e;
+  color: linear-gradient(to right bottom, #370537, #690044, #9c0044, #c90036, #eb2e12);
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
