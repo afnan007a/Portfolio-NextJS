@@ -59,6 +59,7 @@
 }
 
 .main a {
+  cursor: pointer;
   position: relative;
   text-decoration: none;
   color: white;
