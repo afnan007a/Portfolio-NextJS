@@ -58,6 +58,10 @@
   align-items: center;
 }
 
+.main a {
+  color: #f43f5e;
+}
+
 .title a {
   color: #f43f5e;
   text-decoration: none;
