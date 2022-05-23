@@ -28,7 +28,7 @@
 .topnav a:after {
   content: "";
   position: absolute;
-  background-image: linear-gradient(to right bottom, #370537, #690044, #9c0044, #c90036, #eb2e12); 
+  background-color: #f43f5e;
   height: 3px;
   width: 0;
   left: 0;
@@ -42,9 +42,8 @@
 }
 
 .homebar a {
-  background: -webkit-linear-gradient(#c91400, #4d00c9); 
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+
+  color: #f43f5e;
   float: left;
   font-size: 2rem;
 }
@@ -84,7 +83,7 @@
 .line a:after {
   content: "";
   position: absolute;
-  background-image: linear-gradient(#c91400, #4d00c9);
+  background-color: #f43f5e;
   height: 3px;
   width: 0;
   left: 0;
@@ -97,9 +96,7 @@
 }
 
 .title a {
-  background: -webkit-linear-gradient(#c91400, #4d00c9); 
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: #f43f5e;
   text-decoration: none;
 }
 
@@ -147,8 +144,8 @@
   padding: 1.5rem;
   text-align: left;
   text-decoration: none;
-  border-left: 3px solid #FFFFE0;
-  border-right: 3px solid #FFFFE0;
+  border-left: 3px solid #f43f5e;
+  border-right: 3px solid #f43f5e;
   border-radius: 20px;
 
 
@@ -157,6 +154,7 @@
 .card:hover,
 .card:focus,
 .card:active {
+  color: #f43f5e;
   border-color: #f43f5e;
   transition: 0.3s;
 
@@ -185,7 +183,7 @@
 }
 
 .footer a {
-  color: #FFFFE0;
+  color: #f43f5e;
   justify-content: center;
   align-items: center;
 }
@@ -195,18 +193,16 @@
 .footer a:active {
   margin-top: 3px;
   transition: 0.8s;
-  color: #FFFFE0;
+  color: #f43f5e;
 }
 
 .button button {
   margin-bottom: 60px;
   font-size: 17px;
-  background: 
-    linear-gradient(var(--color-bg), var(--color-bg)) padding-box,
-    linear-gradient(#c91400, #4d00c9) border-box;
-  border-radius: 50em;
-  border: 4px solid transparent;
-  color: white; 
+  background-color: #f43f5e; /* Green */
+  border: 3px solid #f43f5e;
+  border-radius: 20px;
+  color: white;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
@@ -215,13 +211,10 @@
 
 .button button:hover{
   cursor: pointer;
-  background-color: #18181B; 
- background: 
-    linear-gradient(var(--color-bg), var(--color-bg)) padding-box,
-    linear-gradient(#c91400, #4d00c9) border-box;
-  border-radius: 50em;
-  border: 4px solid transparent;
-  color: #FFFFE0;
+  background-color: #18181B; /* Green */
+  border: 3px solid #f43f5e;
+  border-radius: 20px;
+  color: #f43f5e;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
@@ -235,3 +228,4 @@
     flex-direction: column;
   }
 }
+/* Add a black background color to the top navigation */
