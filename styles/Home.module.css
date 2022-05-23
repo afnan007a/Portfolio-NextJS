@@ -28,7 +28,7 @@
 .topnav a:after {
   content: "";
   position: absolute;
-  background-image:  linear-gradient(to right bottom, #370537, #690044, #9c0044, #c90036, #eb2e12);
+  background-image: #FFFFE0;
   height: 3px;
   width: 0;
   left: 0;
@@ -42,7 +42,7 @@
 }
 
 .homebar a {
-  color:  linear-gradient(to right bottom, #370537, #690044, #9c0044, #c90036, #eb2e12);
+  color: #FFFFE0;
   float: left;
   font-size: 2rem;
 }
@@ -82,7 +82,7 @@
 .line a:after {
   content: "";
   position: absolute;
-  background-color:  linear-gradient(to right bottom, #370537, #690044, #9c0044, #c90036, #eb2e12);
+  background-color: #FFFFE0;
   height: 3px;
   width: 0;
   left: 0;
@@ -95,7 +95,7 @@
 }
 
 .title a {
-  color:  linear-gradient(to right bottom, #370537, #690044, #9c0044, #c90036, #eb2e12);
+  color: #FFFFE0;
   text-decoration: none;
 }
 
@@ -143,8 +143,8 @@
   padding: 1.5rem;
   text-align: left;
   text-decoration: none;
-  border-left: 3px solid  linear-gradient(to right bottom, #370537, #690044, #9c0044, #c90036, #eb2e12);
-  border-right: 3px solid  linear-gradient(to right bottom, #370537, #690044, #9c0044, #c90036, #eb2e12);
+  border-left: 3px solid #FFFFE0;
+  border-right: 3px solid #FFFFE0;
   border-radius: 20px;
 
 
@@ -181,7 +181,7 @@
 }
 
 .footer a {
-  color:  linear-gradient(to right bottom, #370537, #690044, #9c0044, #c90036, #eb2e12);
+  color: #FFFFE0;
   justify-content: center;
   align-items: center;
 }
@@ -191,16 +191,16 @@
 .footer a:active {
   margin-top: 3px;
   transition: 0.8s;
-  color:  linear-gradient(to right bottom, #370537, #690044, #9c0044, #c90036, #eb2e12);
+  color: #FFFFE0;
 }
 
 .button button {
   margin-bottom: 60px;
   font-size: 17px;
-  background-color: linear-gradient(to right bottom, #370537, #690044, #9c0044, #c90036, #eb2e12);
-  border: 3px solid linear-gradient(to right bottom, #370537, #690044, #9c0044, #c90036, #eb2e12);
+  background-color: #FFFFE0;
+  border: 3px solid #FFFFE0;
   border-radius: 20px;
-  color: white;
+  color: #18181B; 
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
@@ -210,9 +210,9 @@
 .button button:hover{
   cursor: pointer;
   background-color: #18181B; 
-  border: 3px solid linear-gradient(to right bottom, #370537, #690044, #9c0044, #c90036, #eb2e12);
+  border: 3px solid #FFFFE0;
   border-radius: 20px;
-  color: linear-gradient(to right bottom, #370537, #690044, #9c0044, #c90036, #eb2e12);
+  color: #FFFFE0;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
