@@ -7,58 +7,43 @@ export default function Home() {
       <Head>
         <title>ㅤ</title>
       </Head>
-
-      <main className={styles.main}>
-        <h1>
-          <code>
-            <strong>Welcome to my Portfolio!</strong>
+      <div className={styles.topnav}>
+      <code>
+            <strong>
+  <a href="/">Contact</a>
+  <a href="/">Projects</a>
+  <a href="/">About me</a> 
+  <a href="/">Home</a>
+  </strong>
           </code>
-        </h1>
-        <br /> <br />
+
+          <div className={styles.homebar}>
+          <code>
+            <strong>
+              <a href="/">Afnan</a>
+              </strong>
+          </code>
+  </div>
+</div> 
+      <main className={styles.main}>
         <h1 className={styles.title}>
           <code>
             <strong>
-              Hey! I'm <a href="https://github.com/afnan007a">Afnan</a>
+              Hey! I'm <a>Afnan</a>
             </strong>
           </code>
         </h1>
         <h1>
           <code>
-            <strong>I'm a Fullstack Developer!</strong>
+            <strong>Welcome to my portfolio ❤️ <br/> I'm a Fullstack Developer and a System Administrator</strong>
           </code>
         </h1>
-        <div className={styles.grid}>
-          <a href="https://github.com/afnan007a" className={styles.card}>
-            <code>
-              <strong>
-                <h3>My Works</h3>
-                <p>
-                  so basically you can see my latest and all time works here.
-                </p>
-              </strong>
-            </code>
-          </a>
-
-          <a href="" className={styles.card}>
-            <code>
-              <strong>
-                <h3>Contact me</h3>
-                <p>
-                  I'm currently busy with my school so no hiring & stuff for now xd!
-                </p>
-              </strong>
-            </code>
-          </a>
-        </div>
       </main>
       <footer className={styles.footer}>
         <code>
           <strong>
             <h2>
-              Want to know more? just click
-              <a href="https://github.com/afnan007a/afnan007a">
-                here!
-              </a>
+              Copyright © 2022 <a>Afnan</a>. All rights reserved
             </h2>
           </strong>
         </code>
