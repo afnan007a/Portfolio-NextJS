@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Afnan | Contact</title>
+        <title>Afnan | Projects</title>
       <meta name="description" content="My Portfolio yoohoo!!" />
       </Head>
       <div className={styles.topnav}>
