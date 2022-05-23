@@ -11,9 +11,9 @@ export default function Home() {
       <div className={styles.topnav}>
       <code>
             <strong>
-  <a href="/">Contact</a>
-  <a href="/">Projects</a>
-  <a href="/">About me</a> 
+  <a href="/contact">Contact</a>
+  <a href="/projects">Projects</a>
+  <a href="/about">About me</a> 
   <a href="/">Home</a>
   </strong>
           </code>
