@@ -84,7 +84,7 @@
 .line a:after {
   content: "";
   position: absolute;
-  background-image: linear-gradient(to right bottom, #370537, #690044, #9c0044, #c90036, #eb2e12);
+  background-image: linear-gradient(#c91400, #4d00c9);
   height: 3px;
   width: 0;
   left: 0;
@@ -201,11 +201,11 @@
 .button button {
   margin-bottom: 60px;
   font-size: 17px;
-  background-image: linear-gradient(to right bottom, #370537, #690044, #9c0044, #c90036, #eb2e12);
-  border-image: linear-gradient(to right bottom, #370537, #690044, #9c0044, #c90036, #eb2e12);
-  border-width: 4px;
-  border-style: solid;
-  border-radius: 20px;
+  background: 
+    linear-gradient(var(--color-bg), var(--color-bg)) padding-box,
+    linear-gradient(#c91400, #4d00c9) border-box;
+  border-radius: 50em;
+  border: 4px solid transparent;
   color: white; 
   padding: 15px 32px;
   text-align: center;
@@ -216,10 +216,11 @@
 .button button:hover{
   cursor: pointer;
   background-color: #18181B; 
-  border-image: linear-gradient(to right bottom, #370537, #690044, #9c0044, #c90036, #eb2e12);
-  border-width: 4px;
-  border-style: solid;
-  border-radius: 20px;
+ background: 
+    linear-gradient(var(--color-bg), var(--color-bg)) padding-box,
+    linear-gradient(#c91400, #4d00c9) border-box;
+  border-radius: 50em;
+  border: 4px solid transparent;
   color: #FFFFE0;
   padding: 15px 32px;
   text-align: center;
