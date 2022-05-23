@@ -59,6 +59,7 @@
 }
 
 .line {
+  margin-top: 10px;
   color: white;
   background-color: #18181B;
   flex: 1;
@@ -66,14 +67,17 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  font-size: 2rem;
 }
 
 
 .line a {
+  margin-top: 10px;
   cursor: pointer;
   position: relative;
   text-decoration: none;
   color: white;
+  font-size: 2rem;
 }
 
 .line a:after {
