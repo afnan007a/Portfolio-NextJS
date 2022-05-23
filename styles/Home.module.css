@@ -1,3 +1,12 @@
+:root {
+  // rest of variable
+  --color1: #d25778;
+  --color2: #ec585c;
+  --color3: #e7d155;
+  --color4: #56a8c6;
+}
+
+
 .container {
   background-color: #18181B;
   min-height: 100vh;
@@ -42,8 +51,13 @@
 }
 
 .homebar a {
-
-  color:  linear-gradient(to right bottom, #370537, #690044, #9c0044, #c90036, #eb2e12);
+    background: linear-gradient(
+    to right,
+    var(--color1),
+    var(--color2),
+    var(--color3),
+    var(--color4)
+  );
   float: left;
   font-size: 2rem;
 }
