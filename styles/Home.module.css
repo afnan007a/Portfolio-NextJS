@@ -58,6 +58,17 @@
   align-items: center;
 }
 
+.line {
+  color: white;
+  background-color: #18181B;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
 .line a {
   cursor: pointer;
   position: relative;
