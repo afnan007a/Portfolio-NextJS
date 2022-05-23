@@ -28,7 +28,7 @@ export default function Home() {
 </div> 
       <main className={styles.main}>
       <div className={styles.grid}>
-          <a className={styles.card} href="https://cadbim.in/">
+          <a className={styles.card}>
             <code>
               <strong>
                 <h3>Contact me</h3>
