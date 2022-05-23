@@ -36,7 +36,7 @@ export default function Home() {
         </h1>
         <h1>
           <code>
-         <strong>Shoot me a mail at <a>me@afnanksalal.xyz</a> or just message me in discord, my discord id is <a>Afnan#2316</a></strong>
+         <strong>Shoot me a mail at <a>me@afnanksalal.xyz</a></strong>
           </code>
         </h1>
       </main>
