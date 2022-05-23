@@ -27,18 +27,19 @@ export default function Home() {
   </div>
 </div> 
       <main className={styles.main}>
-      <div className={styles.grid}>
-          <a className={styles.card}>
-            <code>
-              <strong>
-                <h3>About me</h3>
-                <p>
-                Hmm... Who am I?
-                </p>
-              </strong>
-            </code>
-          </a>
-        </div>
+                 <h1 className={styles.title}>
+          <code>
+            <strong>
+               <a>About me</a>
+            </strong>
+          </code>
+        </h1>
+        <h1>
+          <code>
+         <center><strong>I am Afnan K Salal.I'm 16 years old and I'm from India. <br /> I'm a Fullstack Developer and a System Administrator. <br /> I mostly use JavaScript (Next, React, Vue, Electron, Express) and Python (Sanic, Django, Flask, Falcon, Hikari).
+</strong></center></div>
+          </code>
+        </h1>
       </main>
       <footer className={styles.footer}>
         <code>
