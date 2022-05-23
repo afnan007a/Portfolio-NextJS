@@ -28,7 +28,7 @@
 .topnav a:after {
   content: "";
   position: absolute;
-  background-color: linear-gradient(90deg, rgba(255,78,60,1) 0%, rgba(53,25,205,1) 74%, rgba(255,78,60,0.8225490879945728) 100%);
+  background-color:  linear-gradient(to right bottom, #370537, #690044, #9c0044, #c90036, #eb2e12);
   height: 3px;
   width: 0;
   left: 0;
@@ -43,7 +43,7 @@
 
 .homebar a {
 
-  color: linear-gradient(90deg, rgba(255,78,60,1) 0%, rgba(53,25,205,1) 74%, rgba(255,78,60,0.8225490879945728) 100%);
+  color:  linear-gradient(to right bottom, #370537, #690044, #9c0044, #c90036, #eb2e12);
   float: left;
   font-size: 2rem;
 }
@@ -83,7 +83,7 @@
 .line a:after {
   content: "";
   position: absolute;
-  background-color: linear-gradient(90deg, rgba(255,78,60,1) 0%, rgba(53,25,205,1) 74%, rgba(255,78,60,0.8225490879945728) 100%);
+  background-color:  linear-gradient(to right bottom, #370537, #690044, #9c0044, #c90036, #eb2e12);
   height: 3px;
   width: 0;
   left: 0;
@@ -96,7 +96,7 @@
 }
 
 .title a {
-  color: linear-gradient(90deg, rgba(255,78,60,1) 0%, rgba(53,25,205,1) 74%, rgba(255,78,60,0.8225490879945728) 100%);
+  color:  linear-gradient(to right bottom, #370537, #690044, #9c0044, #c90036, #eb2e12);
   text-decoration: none;
 }
 
@@ -144,8 +144,8 @@
   padding: 1.5rem;
   text-align: left;
   text-decoration: none;
-  border-left: 3px solid linear-gradient(90deg, rgba(255,78,60,1) 0%, rgba(53,25,205,1) 74%, rgba(255,78,60,0.8225490879945728) 100%);
-  border-right: 3px solid linear-gradient(90deg, rgba(255,78,60,1) 0%, rgba(53,25,205,1) 74%, rgba(255,78,60,0.8225490879945728) 100%);
+  border-left: 3px solid  linear-gradient(to right bottom, #370537, #690044, #9c0044, #c90036, #eb2e12);
+  border-right: 3px solid  linear-gradient(to right bottom, #370537, #690044, #9c0044, #c90036, #eb2e12);
   border-radius: 20px;
 
 
@@ -182,7 +182,7 @@
 }
 
 .footer a {
-  color: linear-gradient(90deg, rgba(255,78,60,1) 0%, rgba(53,25,205,1) 74%, rgba(255,78,60,0.8225490879945728) 100%);
+  color:  linear-gradient(to right bottom, #370537, #690044, #9c0044, #c90036, #eb2e12);
   justify-content: center;
   align-items: center;
 }
@@ -192,14 +192,14 @@
 .footer a:active {
   margin-top: 3px;
   transition: 0.8s;
-  color: linear-gradient(90deg, rgba(255,78,60,1) 0%, rgba(53,25,205,1) 74%, rgba(255,78,60,0.8225490879945728) 100%);
+  color:  linear-gradient(to right bottom, #370537, #690044, #9c0044, #c90036, #eb2e12);
 }
 
 .button button {
   margin-bottom: 60px;
   font-size: 17px;
-  background-color: linear-gradient(90deg, rgba(255,78,60,1) 0%, rgba(53,25,205,1) 74%, rgba(255,78,60,0.8225490879945728) 100%); 
-  border: 3px solid linear-gradient(90deg, rgba(255,78,60,1) 0%, rgba(53,25,205,1) 74%, rgba(255,78,60,0.8225490879945728) 100%);
+  background-color:  linear-gradient(to right bottom, #370537, #690044, #9c0044, #c90036, #eb2e12);
+  border: 3px solid  linear-gradient(to right bottom, #370537, #690044, #9c0044, #c90036, #eb2e12);
   border-radius: 20px;
   color: white;
   padding: 15px 32px;
@@ -211,7 +211,7 @@
 .button button:hover{
   cursor: pointer;
   background-color: #18181B; 
-  border: 3px solid linear-gradient(90deg, rgba(255,78,60,1) 0%, rgba(53,25,205,1) 74%, rgba(255,78,60,0.8225490879945728) 100%);
+  border: 3px solid  linear-gradient(to right bottom, #370537, #690044, #9c0044, #c90036, #eb2e12);
   border-radius: 20px;
   color: #f43f5e;
   padding: 15px 32px;
