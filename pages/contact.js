@@ -36,7 +36,7 @@ export default function Home() {
         </h1>
         <h1>
           <code>
-         <strong>Shoot me an email at </strong><div className={styles.line}><strong><a>me@afnanksalal.xyz</a></strong></div>
+         <strong>Shoot me an email at </strong><br/><div className={styles.line}><strong><a>me@afnanksalal.xyz</a></strong></div>
           </code>
         </h1>
       </main>
