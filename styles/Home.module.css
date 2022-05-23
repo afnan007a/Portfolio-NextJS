@@ -84,7 +84,7 @@
 .line a:after {
   content: "";
   position: absolute;
-  background-color: #FFFFE0;
+  background-image: linear-gradient(to right bottom, #370537, #690044, #9c0044, #c90036, #eb2e12);
   height: 3px;
   width: 0;
   left: 0;
@@ -97,7 +97,9 @@
 }
 
 .title a {
-  color: #FFFFE0;
+  background: -webkit-linear-gradient(#c91400, #4d00c9); 
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
   text-decoration: none;
 }
 
@@ -199,10 +201,12 @@
 .button button {
   margin-bottom: 60px;
   font-size: 17px;
-  background-color: #FFFFE0;
-  border: 3px solid #FFFFE0;
+  background-image: linear-gradient(to right bottom, #370537, #690044, #9c0044, #c90036, #eb2e12);
+  border-image: linear-gradient(to right bottom, #370537, #690044, #9c0044, #c90036, #eb2e12);
+  border-width: 4px;
+  border-style: solid;
   border-radius: 20px;
-  color: #18181B; 
+  color: white; 
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
@@ -212,7 +216,9 @@
 .button button:hover{
   cursor: pointer;
   background-color: #18181B; 
-  border: 3px solid #FFFFE0;
+  border-image: linear-gradient(to right bottom, #370537, #690044, #9c0044, #c90036, #eb2e12);
+  border-width: 4px;
+  border-style: solid;
   border-radius: 20px;
   color: #FFFFE0;
   padding: 15px 32px;
