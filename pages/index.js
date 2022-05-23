@@ -35,7 +35,7 @@ export default function Home() {
         </h1>
         <h1>
           <code>
-            <strong>Welcome to my portfolio ❤️ <br/> I'm a Fullstack Developer and a System Administrator</strong>
+           I'm a Fullstack Developer and a System Administrator</strong>
           </code>
         </h1>
       </main>
@@ -43,7 +43,7 @@ export default function Home() {
         <code>
           <strong>
             <h2>
-              Copyright © 2022 <a>Afnan</a>. All rights reserved
+              <a>Afnan © 2022</a>
             </h2>
           </strong>
         </code>
