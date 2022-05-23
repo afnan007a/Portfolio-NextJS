@@ -57,7 +57,7 @@ export default function Home() {
           </code>
         </h1>
         <div className={styles.button}>
-        <a href="https://github.com/afnan007as"><button ><code>
+        <a href="https://github.com/afnan007a"><button ><code>
               <strong>Github</strong>
             </code></button></a>
         </div>
