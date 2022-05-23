@@ -5,7 +5,8 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>ㅤ</title>
+        <title>Afnan | Home</title>
+      <meta name="description" content="My Portfolio yoohoo!!" />
       </Head>
       <div className={styles.topnav}>
       <code>
