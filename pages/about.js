@@ -37,7 +37,7 @@ export default function Home() {
         <h1>
           <code>
          <center><strong>I am Afnan K Salal.I'm 16 years old and I'm from India. <br /> I'm a Fullstack Developer and a System Administrator. <br /> I mostly use JavaScript (Next, React, Vue, Electron, Express) and Python (Sanic, Django, Flask, Falcon, Hikari).
-</strong></center></div>
+</strong></center>
           </code>
         </h1>
       </main>
