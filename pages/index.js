@@ -36,7 +36,7 @@ export default function Home() {
         </h1>
         <h1>
           <code>
-         <strong>I'm a Fullstack Developer and a System Administrator</strong>
+         <strong><p>I'm a Fullstack Developer and a System Administrator</p></strong>
           </code>
         </h1>
       </main>
