@@ -42,7 +42,7 @@
 }
 
 .homebar a {
-  background: -webkit-linear-gradient(to right bottom, #370537, #690044, #9c0044, #c90036, #eb2e12); 
+  background: -webkit-linear-gradient(#eee, #333); 
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   float: left;
