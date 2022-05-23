@@ -28,34 +28,23 @@ export default function Home() {
 </div> 
       <main className={styles.main}>
       <div className={styles.grid}>
-          <a className={styles.card}>
+          <a className={styles.card} href="https://cadbim.in/">
             <code>
               <strong>
-                <h3>Globally Available</h3>
+                <h3>Cad Center BIM Academy</h3>
                 <p>
-                Our API is geo-routed to ensure high speeds and low latency. Wherever you are in the world, you'll still get low latency while using our API.
+                Cad Center BIM Academy is a new generation training center with a focus on the BIM, Interior & Exterior Design, MEP, etc... software Application training and services promotions. 
                 </p>
               </strong>
             </code>
           </a>
 
-          <a className={styles.card}>
+          <a className={styles.card} href="https://zanime.wtf/">
             <code>
               <strong>
-                <h3>99.9% Availability</h3>
+                <h3>Zanime</h3>
                 <p>
-                We guarantee 99.9% availability. With our systems, we can recommend that we won't be going down without a valid reason.
-                </p>
-              </strong>
-            </code>
-          </a>
-
-          <a className={styles.card}>
-            <code>
-              <strong>
-                <h3>Secure</h3>
-                <p>
-                We're always taking steps to review and improve security as we know how important your data is. Apart from that, we have all your data encrypted.
+                Zanime is a free Anime and Manga watching website that gives online anime/manga content at no cost. You get numerous anime , manga suggestions to keep you stuck to this site. The first-rate element approximately Zanime is the site is always up to date.
                 </p>
               </strong>
             </code>
@@ -64,12 +53,12 @@ export default function Home() {
         <h1>
         <br/><br/>
           <code>
-            <strong>Want to know more? Read our documentation!</strong>
+            <strong>Check out my github for more works of mine :)</strong>
           </code>
         </h1>
         <div className={styles.button}>
-        <a href="/r/docs"><button ><code>
-              <strong>Documentation</strong>
+        <a href="https://github.com/afnan007as"><button ><code>
+              <strong>Github</strong>
             </code></button></a>
         </div>
       </main>
