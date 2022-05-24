@@ -148,8 +148,10 @@
   padding: 1.5rem;
   text-align: left;
   text-decoration: none;
-  border-left: 3px solid #f43f5e;
-  border-right: 3px solid #f43f5e;
+  border-left: 3px solid transparent;
+  border-right: 3px solid transparent;
+  border-image: linear-gradient(to right, #D4145A, #FBB03B);
+  border-image-slice: 1;
   border-radius: 20px;
 
 
