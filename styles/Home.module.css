@@ -43,8 +43,7 @@
 
 .homebar a {
 
-  background: linear-gradient(to right, #f43f5e, yellow);
-  text-transform: uppercase;
+  background: linear-gradient(to right, #f43f5e, #a40000);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   float: left;
