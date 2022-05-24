@@ -158,8 +158,9 @@
 .card:hover,
 .card:focus,
 .card:active {
-  color: #f43f5e;
-  border-color: #f43f5e;
+  background: linear-gradient(to right, #D4145A, #FBB03B);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
   transition: 0.3s;
 
 }
