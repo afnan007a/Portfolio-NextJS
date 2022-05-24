@@ -206,10 +206,11 @@
 }
 
 .button button {
+  cursor: pointer;
   margin-bottom: 60px;
   font-size: 17px;
-  background-color: #f43f5e; /* Green */
-  border: 3px solid #f43f5e;
+  background-image: linear-gradient(to right, #D4145A, #FBB03B);
+  border: none;
   border-radius: 20px;
   color: white;
   padding: 15px 32px;
@@ -219,15 +220,7 @@
 }
 
 .button button:hover{
-  cursor: pointer;
-  background-color: #18181B; /* Green */
-  border: 3px solid #f43f5e;
-  border-radius: 20px;
-  color: #f43f5e;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
+  background-position: left;
   transition: 0.3s;
 }
 
