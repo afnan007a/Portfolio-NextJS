@@ -43,7 +43,10 @@
 
 .homebar a {
 
-  color: #f43f5e;
+  background: linear-gradient(to right, #f43f5e, yellow);
+  text-transform: uppercase;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
   float: left;
   font-size: 2rem;
 }
