@@ -149,7 +149,6 @@
   text-align: left;
   text-decoration: none;
   border: 3px solid transparent;
-  transform: translate(-50%,-50%);
   border-image: linear-gradient(to right, #D4145A, #FBB03B);
   border-image-slice: 1;
   border-radius: 20px;
