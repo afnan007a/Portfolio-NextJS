@@ -148,11 +148,12 @@
   padding: 1.5rem;
   text-align: left;
   text-decoration: none;
-  border-left: 3px solid transparent;
-  border-right: 3px solid transparent;
+  border: 3px solid transparent;
+  transform: translate(-50%,-50%);
   border-image: linear-gradient(to right, #D4145A, #FBB03B);
   border-image-slice: 1;
   border-radius: 20px;
+  box-shadow: 0 15px 25px rgba(0,0,0,.2);
 
 
 }
