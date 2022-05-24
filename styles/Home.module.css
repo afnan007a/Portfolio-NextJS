@@ -187,7 +187,9 @@
 }
 
 .footer a {
-  color: #f43f5e;
+  background: linear-gradient(to right, #D4145A, #FBB03B);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
   justify-content: center;
   align-items: center;
 }
@@ -197,7 +199,9 @@
 .footer a:active {
   margin-top: 3px;
   transition: 0.8s;
-  color: #f43f5e;
+  background: linear-gradient(to right, #D4145A, #FBB03B);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .button button {
