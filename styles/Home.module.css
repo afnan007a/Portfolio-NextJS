@@ -28,7 +28,7 @@
 .topnav a:after {
   content: "";
   position: absolute;
-  background-color: #f43f5e;
+  background-image: linear-gradient(to right, #D4145A, #FBB03B);
   height: 3px;
   width: 0;
   left: 0;
@@ -85,7 +85,7 @@
 .line a:after {
   content: "";
   position: absolute;
-  background-color: #f43f5e;
+  background-image: linear-gradient(to right, #D4145A, #FBB03B);
   height: 3px;
   width: 0;
   left: 0;
@@ -98,7 +98,9 @@
 }
 
 .title a {
-  color: #f43f5e;
+  background: linear-gradient(to right, #D4145A, #FBB03B);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
   text-decoration: none;
 }
 
